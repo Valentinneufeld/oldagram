@@ -71,6 +71,10 @@ main, header {
     padding: 15px 10px 12px 10px;
 }
 
+.icon:hover {
+    opacity: 50%;
+}
+
 .post-interaction{
     margin: 0;
     padding: 0 0 12px 12px;
